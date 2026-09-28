@@ -7,7 +7,7 @@ export const SITE = {
   city: "Pune , Maharashtra",
   address: "Bibvewadi ,Pune - 411037",
   website: "salonisonawane.vercel.app",
-  resumeUrl: "/SaloniSonawane-WebDeveloperResume.pdf",
+  resumeUrl: "/Saloni_Sonawane_SoftwareDeveloper_Resume.pdf",
   // Public Web3Forms key (same one the original site used). Override with VITE_WEB3FORMS_KEY in .env if you rotate it.
   web3formsKey: import.meta.env.VITE_WEB3FORMS_KEY || "c5e8f87c-7e48-4d04-8e9f-0359af6bacb5",
   mapEmbedUrl:
