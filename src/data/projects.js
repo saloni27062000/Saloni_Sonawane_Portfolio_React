@@ -37,7 +37,7 @@ export const PROJECTS = [
     "description": "Obstetrics & Gynaecology",
     "image": "/img/thumbs/03-dr-hitendrasing-patil.webp",
     "full": "/img/full/03-dr-hitendrasing-patil.webp",
-    "link": "https://drhitendrasingpatil.com",
+    "link": "https://nesthospitalpune.com/",
     "lightboxTitle": "Science Campus",
     "ratio": 0.568
   },
